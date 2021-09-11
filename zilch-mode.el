@@ -1,5 +1,5 @@
 ;;; zilch-mode.el --- Major mode for Zilch
-;; SPDX-License-Identifier: BSD3 License
+;; SPDX-License-Identifier: MIT License
 
 ;;; Commentary:
 
